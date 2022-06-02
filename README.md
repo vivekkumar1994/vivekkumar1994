@@ -1,3 +1,13 @@
+
+- 🌱 I’m currently learning **Coding**
+
+- 👨‍💻 All of my projects are available at [https://curious-pastelito-7a57ce.netlify.app](https://curious-pastelito-7a57ce.netlify.app)
+
+- 📫 How to reach me **viveksnh933@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing](https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing)
+
+
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">Full stack Mern Web Developer</h3>
 
@@ -7,13 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/viveksnh933" target="blank"><img src="https://img.shields.io/twitter/follow/viveksnh933?logo=twitter&style=for-the-badge" alt="viveksnh933" /></a> </p>
 
-- 🌱 I’m currently learning **Coding**
-
-- 👨‍💻 All of my projects are available at [https://curious-pastelito-7a57ce.netlify.app](https://curious-pastelito-7a57ce.netlify.app)
-
-- 📫 How to reach me **viveksnh933@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing](https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

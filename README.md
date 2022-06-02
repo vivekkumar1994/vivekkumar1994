@@ -1,5 +1,8 @@
 
-- 🌱 I’m currently learning **Coding**
+<h1 align="center">Hi 👋, I'm vivek kumar . i am learning coding in Masai School.I have done my graduation in commerce in the year 2014.
+my skill of coding is Html,css,javascript,css,advance Javascript, React, Redux,Thuks</h1>
+<h3 align="center">Full stack Mern Web Developer</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://curious-pastelito-7a57ce.netlify.app](https://curious-pastelito-7a57ce.netlify.app)
 
@@ -8,8 +11,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing](https://docs.google.com/document/d/1HTv1GbMlAkfrDHpccys5noeosHHRHH1rRYmMQU7fm9k/edit?usp=sharing)
 
 
-<h1 align="center">Hi 👋, I'm vivek kumar</h1>
-<h3 align="center">Full stack Mern Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar1994&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar1994" /> </p>
 

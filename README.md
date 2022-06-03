@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm vivek kumar . i am learning coding in Masai School.I have done my graduation in commerce in the year 2014.
-my skill of coding is Html,css,javascript,css,advance Javascript, React, Redux,Thuks</h1>
+my skill of coding is Html,css,javascript,css,advance Javascript, React, Redux,Thunks</h1>
 <h3 align="center">Full stack Mern Web Developer</h3>
 
 

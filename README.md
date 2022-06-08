@@ -4,7 +4,7 @@ my skill of coding is Html,css,javascript,css,advance Javascript, React, Redux,T
 <h3 align="center">Full stack Mern Web Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://curious-pastelito-7a57ce.netlify.app]((https://vivek-kumar1234.netlify.app))
+- 👨‍💻 All of my projects are available at [https://vivek-kumar1234.netlify.app]
 
 - 📫 How to reach me **viveksnh933@gmail.com**
 
